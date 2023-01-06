@@ -1,0 +1,13 @@
+#container{
+    
+    background: rgb(84, 124, 205);
+    padding: 20px;
+    height: 650px;
+}
+
+
+
+table{
+    border: 2px solid black;
+    height: 100px;
+}
